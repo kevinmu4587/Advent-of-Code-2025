@@ -1,0 +1,24 @@
+{
+  "name": "advent-code-2025",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "test:ui": "vitest --ui",
+    "test:run": "vitest run",
+    "day1": "tsx day1/password-breaker.ts",
+    "day1-2": "tsx day1/password-breaker-2.ts",
+    "day2": "tsx day2/invalid-code-finder.ts",
+    "day2-2": "tsx day2/invalid-code-finder-2.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3",
+    "vitest": "^2.1.8"
+  }
+}
