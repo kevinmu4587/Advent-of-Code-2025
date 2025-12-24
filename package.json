@@ -9,7 +9,9 @@
     "day1": "tsx day1/password-breaker.ts",
     "day1-2": "tsx day1/password-breaker-2.ts",
     "day2": "tsx day2/invalid-code-finder.ts",
-    "day2-2": "tsx day2/invalid-code-finder-2.ts"
+    "day2-2": "tsx day2/invalid-code-finder-2.ts",
+    "day3": "tsx day3/largest-jolt.ts",
+    "day3-2": "tsx day3/largest-jolt-2.ts"
   },
   "keywords": [],
   "author": "",

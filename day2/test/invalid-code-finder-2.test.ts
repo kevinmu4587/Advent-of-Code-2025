@@ -1,7 +1,7 @@
 import { describe, it, expect } from "vitest";
 import { getFactors, isInvalidNumber, splitIntoSizeChunks } from "../invalid-code-finder-2";
 
-describe.only("invalid-code-finder-2", () => {
+describe("invalid-code-finder-2", () => {
   describe("getFactors", () => {
     it("should return factors of the number", () => {
       expect(getFactors(12)).toEqual([1, 2, 3, 4, 6]);
