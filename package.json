@@ -11,7 +11,9 @@
     "day2": "tsx day2/invalid-code-finder.ts",
     "day2-2": "tsx day2/invalid-code-finder-2.ts",
     "day3": "tsx day3/largest-jolt.ts",
-    "day3-2": "tsx day3/largest-jolt-2.ts"
+    "day3-2": "tsx day3/largest-jolt-2.ts",
+    "day4": "tsx day4/forklist-accessible.ts",
+    "day4-2": "tsx day4/forklist-accessible-2.ts"
   },
   "keywords": [],
   "author": "",
